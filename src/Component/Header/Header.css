@@ -1,0 +1,26 @@
+.header-container{
+    margin-bottom: 40px;
+    background-color: #E0E0E0;
+    color: #575757;
+    padding: 20px;
+    font-weight: 900;
+    font-family: 'Julius Sans One';
+}
+.header-links{
+    padding: 0px 10px 0px 10px;
+    color: #575757;
+}
+.header-links-selected{
+    color:#7582a8;
+}
+.name-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+.info-container{
+    display: flex;
+}
+.sub-title{
+    font-size: 12px;
+    color:#7582a8;
+}
